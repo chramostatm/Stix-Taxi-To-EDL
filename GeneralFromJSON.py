@@ -1,4 +1,4 @@
-#from stix2.v21 import (Indicator, KillChainPhase, Malware, Relationship, Bundle)
+from stix2.v21 import (Indicator, KillChainPhase, Malware, Relationship, Bundle)
 from stix2 import parse
 """
 import time
@@ -22,7 +22,7 @@ for obj in bundle.objects:
             #str(obj.get("pattern")).split('\'',1)[1].replace("']", "")
             print(str(obj.get("pattern")).split('\'',1)[1].replace("']", ""))
             #append to  a file in Python or lasy way us the '>>' when running
-            #or do > if you don't compare abot file contents
+            #or do '>' if you don't compare abot file contents
 #endTime = current_milli_time()
 
 #print(endTime-startTime)
