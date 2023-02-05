@@ -17,13 +17,13 @@ Personally I couldn't quite finish/verify the client server example. I think I c
 
 Solution Quality
 - How effective is the project at solving the problem?
-    Mostly up to the. The main ask was creating a python script that would convert the
+    Mostly up to the. The main ask was creating a python script that would find URL and IP indicators and send it off to a newline text file that would be synced with a Firewall EDL policy.
 
 Software Engineering
-- Up to Judges
+- Up to Judges.
 
 Project Presentation
-- Up to Judges
+- Up to Judges.
 
 Business Track
 - Business Oriented (fills a CyberSecurity Business need)
